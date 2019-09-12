@@ -1,6 +1,6 @@
 ---
-title: Gatsby-MDX + Netlify CMS
-desc: Gatsby-MDX + Netlify CMS Starter
+title: Länsförsäkringar User Interface
+desc: Länsförsäkringar User Interface
 menu_nav:
   - text: NoCMS MDX Page
     url: /cms-unreachable
