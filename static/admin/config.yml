@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: johanbahlin/cms-testar
+  repo: johanbahlin/cms-testa
   branch: master
 
 media_folder: uploads/img
