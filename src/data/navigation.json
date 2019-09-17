@@ -1,0 +1,18 @@
+{
+  "start": {
+    "title": "Welcome",
+    "href": "/"
+  },
+  "components": {
+    "title": "Components",
+    "href": "components"
+  },
+  "guidelines": {
+    "title": "Guidelines",
+    "href": "guidelines"
+  },
+  "about": {
+    "title": "About LFUI",
+    "href": "about"
+  }
+}

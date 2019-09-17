@@ -1,0 +1,26 @@
+:root {
+  --navigation-spacing: 2.55rem;
+}
+
+
+.Navigation__list {
+    list-style-type: none;
+    display: flex;
+}
+.Navigation__item {
+   
+}
+.Navigation__link {
+  color: var(--color-navy);
+  font-family: var(--font-family-sans-serif);
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+  margin-left: var(--navigation-spacing);
+  padding: 0.75rem 0;
+}
+.is__active {
+  font-weight: bold;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNSIgaGVpZ2h0PSI5Ij4gIDxwYXRoIGZpbGw9IiNFMzA2MTMiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTS41LjVoMTQuMTU0bC03LjA3NyA4eiIvPjwvc3ZnPg==);
+  background-repeat: no-repeat;
+  background-position: 50% bottom;
+}

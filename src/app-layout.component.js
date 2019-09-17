@@ -1,7 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
-
+import 'normalize.css'; 
+import "./components/_base/index.css"
+import './fonts/introcond-regular-fixed.woff2'
+import './fonts/introcond-regular-fixed.woff'
+import './fonts/introcond-bold-fixed.woff2'
+import './fonts/introcond-bold-fixed.woff'
 import { Header, Menu } from "./components"
 
 // Global application wrapper
